@@ -9,14 +9,13 @@ const {t} = useI18n()
   <section class="pt-6 p-4 md:p-5">
     <div class="flex flex-col gap-3">
       <h1 class="text-4xl font-bold text-color">
-        {{ t("about.title") }}
+        {{ t("home.title") }}
       </h1>
       <p class="m-0 line-height-3 text-color-secondary">
-        {{ t("about.content") }}
+        {{ t("home.content") }}
       </p>
     </div>
   </section>
-
 </template>
 
 <style scoped>
