@@ -11,8 +11,8 @@ const toggleDrawer = () => {
 }
 
 const items = [
-  { label: 'option.home', to: '/home' },
-  { label: 'option.about', to: '/about' },
+  { label: 'options.home', to: '/home' },
+  { label: 'options.about', to: '/about' },
 ]
 
 </script>
@@ -40,6 +40,9 @@ const items = [
     </pv-toolbar>
     <pv-drawer v-model="drawer"/>
   </header>
+  <main class="mt-7">
+    <router-view/>
+  </main>
 
 </template>
 
