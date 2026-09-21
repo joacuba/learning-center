@@ -1,0 +1,19 @@
+{
+  "options": {
+    "home": "Inicio",
+    "about": "Acerca de"
+  },
+  "home": {
+    "title": "Bienvenido",
+    "content": "Bienvenido al Centro de Aprendizaje ACME"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "content": "El Centro de Aprendizaje ACME es una plataforma de negocios educativos, parte de la Corporación ACME"
+  },
+  "page-not-found": {
+    "title": "Página No Encontrada",
+    "content": "La ruta {unavailable-route} no está disponible",
+    "go-home": "Ir al Inicio"
+  }
+}
