@@ -12,7 +12,7 @@ import {
     Column,
     ConfirmationService,
     ConfirmDialog, DataTable, Dialog,
-    DialogService, FileUpload, FloatLabel, IconField, InputIcon,
+    DialogService, Drawer, FileUpload, FloatLabel, IconField, InputIcon,
     InputNumber, InputText, Menu, Rating, Row, Select, SelectButton, Tag, Textarea, Toast,
     ToastService, Toolbar, Tooltip
 } from "primevue";
